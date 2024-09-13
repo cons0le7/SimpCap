@@ -1,7 +1,9 @@
 # SimpCap
 A very simple packet capture tool. 
 
--logs are stored in /SimpCap/logs.pcap
+-logs are stored in /SimpCap/logs.pcap 
+
+-Requires root.
 
 
 # Depends 
