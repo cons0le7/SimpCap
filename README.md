@@ -21,5 +21,4 @@ cd SimpCap
 sudo python3 simpcap.py 
 ``` 
 
-![screenshot_1](https://github.com/user-attachments/assets/ec3e4e4f-06ff-4007-817c-040ecaea2116)
-
+![screenshot_1](https://github.com/user-attachments/assets/42c4e430-10db-4dd6-b087-2bca53d69888)
